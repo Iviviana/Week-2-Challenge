@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: helvetica, Arial, sans-serif;
+    color: blanchedalmond;
+    background-color: #000;
+}
+
+header {
+    padding: 20px 35px;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    margin: 0;
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color:darksalmon;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-size: 22px;
+}
+
+.hero {
+    background-image: url("../images/network-6511448_1920.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+
+}
