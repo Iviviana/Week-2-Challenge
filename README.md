@@ -10,7 +10,7 @@ The body is divided into  parts:
 
 ## Header
 
-The header contains links to the main pade, along with navigation links to the about me, projects and contact me.
+The header contains links to the main page, along with navigation links to the about me, projects and contact me.
 
 ## About Me
 

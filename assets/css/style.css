@@ -70,14 +70,18 @@ header nav ul li a {
     font-size: 35px;
 }
 
-.projectss {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: baseline;
+.projectss .jota, .runbuddy {
+    display: inline-flex;
     padding: var(--size);
 }
 
-.jireh:hover, .jota:hover, .runbuddy:hover {
+.jireh {
+    display:flex;
+    justify-content: center;
+    padding: var(--size);
+}
+
+.jireh:hover,.jota:hover,.runbuddy:hover {
     transform: scale(1.1);
 }
 
