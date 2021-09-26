@@ -15,7 +15,6 @@ body {
     background-color: #fff0fb;
 }
 
-
 /* start of header and nav css */
 header {
     padding: 20px 35px;
@@ -55,10 +54,6 @@ header nav ul li a {
     font-size: 22px;
 }
 
-/* end of header and nav css */
-
-
-
 #Me {
     text-align: center;
     font-size: 25px;
@@ -69,7 +64,6 @@ header nav ul li a {
     align-items: top;
     font-size: var(--size);
 }
-
 
 #projects {
     text-align: var(--text-align);
@@ -100,4 +94,11 @@ header nav ul li a {
 footer {
     text-align: var(--text-align);
     padding: var(--size);
+}
+
+@media screen and (max-width: 768px) {
+    main, 
+    nav {
+        flex-direction: column;
+    }
 }
