@@ -28,3 +28,4 @@ This section contains methods to contact the user either via phone or by email.
 
 Contains copyright for the website and a link to the top of the page.
 
+[Deployed User's Profile](https://iviviana.github.io/Week-2-Challenge/)
