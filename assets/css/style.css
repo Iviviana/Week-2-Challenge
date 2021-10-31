@@ -81,7 +81,7 @@ header nav ul li a {
     padding: var(--size);
 }
 
-.jireh:hover,.jota:hover,.runbuddy:hover {
+.jireh:hover,.jota:hover,.runbuddy:hover,.classP:hover {
     transform: scale(1.1);
 }
 
