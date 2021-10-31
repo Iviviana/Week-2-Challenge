@@ -70,7 +70,7 @@ header nav ul li a {
     font-size: 35px;
 }
 
-.projectss .jota, .runbuddy {
+.projectss .jota, .runbuddy, .classP {
     display: inline-flex;
     padding: var(--size);
 }
